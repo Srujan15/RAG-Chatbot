@@ -1,4 +1,3 @@
-
 # RAG PDF Chatbot (Streamlit + FAISS + Local Embeddings + Ollama)
 
 This project is a PDF Question Answering chatbot built using the RAG (Retrieval-Augmented Generation) approach. You can upload any PDF, ask questions, and get answers based on the document content with source references.
